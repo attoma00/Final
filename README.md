@@ -17,7 +17,7 @@ This code accesses an API for recipes, ingredients, and images.
 
 We built this app because we both wanted to build something creative and challenging. 
 
-This project is be useful for many people with dietary restrictions because they are able to filter the generator with any 
+This project is be useful for many people with dietary restrictions and allergies because they are able to filter the generator with any 
 dietary restrictions or allergies they may have(for example, vegan, vegetarian, and gluten-free diets). 
 
 
